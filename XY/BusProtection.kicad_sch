@@ -1281,12 +1281,6 @@
 		(uuid "0622ec3a-56a2-4d1c-8420-b1dacf9fe101")
 	)
 	(junction
-		(at 140.97 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "06f8e6b4-0ab9-4ce3-8abe-22f7e6297054")
-	)
-	(junction
 		(at 46.99 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1297,12 +1291,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0cb2b79b-12c2-440f-aca3-3bbe7d969acc")
-	)
-	(junction
-		(at 135.89 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "119979fb-a5fc-4a78-a3b2-d64cffc90ba8")
 	)
 	(junction
 		(at 135.89 35.56)
@@ -1383,24 +1371,6 @@
 		(uuid "2f797053-a699-4434-80f8-c057a4f00dd5")
 	)
 	(junction
-		(at 130.81 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3345bbae-6ed4-4e30-b940-eb15d9faa696")
-	)
-	(junction
-		(at 140.97 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3581b76b-5dca-4f27-8cab-004d60003333")
-	)
-	(junction
-		(at 177.8 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "38ff323d-cdd0-498b-aed4-85f488a73510")
-	)
-	(junction
 		(at 175.26 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1455,18 +1425,6 @@
 		(uuid "517c7859-b27b-4413-89ff-7e9363137b6b")
 	)
 	(junction
-		(at 182.88 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52c161da-640b-42c2-b8c2-22dbb3324fe3")
-	)
-	(junction
-		(at 160.02 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5540bd24-745b-4fa8-9110-63ddb870c7b7")
-	)
-	(junction
 		(at 66.04 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1491,12 +1449,6 @@
 		(uuid "681f58f1-2df9-4d88-a056-03d1d04aedce")
 	)
 	(junction
-		(at 118.11 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b6c1bd0-7e91-4474-9f05-425b95138d58")
-	)
-	(junction
 		(at 177.8 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1515,18 +1467,6 @@
 		(uuid "71c75926-5869-4697-90c6-3117bf602fc9")
 	)
 	(junction
-		(at 182.88 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "741583be-dabd-49bd-8947-84ab3d517e23")
-	)
-	(junction
-		(at 133.35 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7b89df0f-3170-4006-b5e1-69a08a1c984f")
-	)
-	(junction
 		(at 83.82 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1543,30 +1483,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ebdf3f0-55b6-4ef6-b87d-ff9fdeefb4c6")
-	)
-	(junction
-		(at 140.97 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "80136417-eb4f-4bd0-af98-277d0d7a83fa")
-	)
-	(junction
-		(at 172.72 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "80e315c7-3c6a-46c8-b9ab-96e060ff2d69")
-	)
-	(junction
-		(at 140.97 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8433956b-8f2d-48e7-8f62-15db103c323f")
-	)
-	(junction
-		(at 177.8 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8480ceb1-b7ee-4cbc-ab64-58f8d076d2ce")
 	)
 	(junction
 		(at 41.91 101.6)
@@ -1599,12 +1515,6 @@
 		(uuid "9167a50a-aea7-43c3-a871-ad8395c7b8fb")
 	)
 	(junction
-		(at 140.97 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "92491c2c-4a6f-436b-9605-8e2540ebc3a7")
-	)
-	(junction
 		(at 182.88 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1627,12 +1537,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9cfa7755-b74d-4c5d-a72b-40beba5308bd")
-	)
-	(junction
-		(at 182.88 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a0c1e6a4-ee4c-47e4-ac85-a875f1b5e1d8")
 	)
 	(junction
 		(at 133.35 81.28)
@@ -1689,22 +1593,10 @@
 		(uuid "c08a493b-585f-4bf1-bf4d-cc352e2216a7")
 	)
 	(junction
-		(at 182.88 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1090c1e-78fa-4d52-b5e2-cb024b03adc6")
-	)
-	(junction
 		(at 140.97 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c1c0b6aa-0ae0-4fff-87a2-78ae75fbdfb9")
-	)
-	(junction
-		(at 125.73 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c21ae896-a043-49ed-bd03-81660841cfb2")
 	)
 	(junction
 		(at 46.99 43.18)
@@ -1713,22 +1605,10 @@
 		(uuid "c98f0ac7-eb43-47a7-9b47-3383052dff00")
 	)
 	(junction
-		(at 175.26 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc265fe5-c897-491c-be1d-1637304b5ea9")
-	)
-	(junction
 		(at 46.99 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cea760a9-16a9-40e9-bdcc-ba3acb8278b6")
-	)
-	(junction
-		(at 167.64 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf115cef-10ec-447b-86d1-52d6ffbffc8d")
 	)
 	(junction
 		(at 177.8 27.94)
@@ -1741,18 +1621,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e03495b4-bff9-4cf4-927b-f26c315311d7")
-	)
-	(junction
-		(at 182.88 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e06918c6-6d99-439a-8c08-e783296dbde3")
-	)
-	(junction
-		(at 135.89 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e090cc04-6a1c-4826-9244-0b8d5b25f5e3")
 	)
 	(junction
 		(at 83.82 109.22)
@@ -1818,26 +1686,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 140.97) (xy 125.73 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09ff65c1-f775-4039-96fa-3954e4c82cb7")
-	)
-	(wire
-		(pts
-			(xy 153.67 189.23) (xy 156.21 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b5c7cc4-955b-4712-be2b-7a180f255634")
-	)
-	(wire
-		(pts
 			(xy 24.13 53.34) (xy 27.94 53.34)
 		)
 		(stroke
@@ -1858,16 +1706,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 101.6) (xy 135.89 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e37640d-ec59-4e19-b99b-620cf1531336")
-	)
-	(wire
-		(pts
 			(xy 39.37 152.4) (xy 39.37 154.94)
 		)
 		(stroke
@@ -1875,16 +1713,6 @@
 			(type default)
 		)
 		(uuid "0fb8e4b8-c444-4b6f-989e-3c5c9136de5a")
-	)
-	(wire
-		(pts
-			(xy 140.97 114.3) (xy 140.97 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1302b96d-9d32-42a9-94c5-39cf69e63972")
 	)
 	(wire
 		(pts
@@ -1958,16 +1786,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 189.23) (xy 148.59 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ee2dd1d-cd58-4061-bb2e-a8bfa398937f")
-	)
-	(wire
-		(pts
 			(xy 74.93 43.18) (xy 78.74 43.18)
 		)
 		(stroke
@@ -1975,16 +1793,6 @@
 			(type default)
 		)
 		(uuid "207f0240-da95-4413-81c7-022810c7b09a")
-	)
-	(wire
-		(pts
-			(xy 185.42 125.73) (xy 182.88 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20978559-f100-4911-bfed-66a304703be3")
 	)
 	(wire
 		(pts
@@ -2038,26 +1846,6 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 154.94) (xy 140.97 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27c4901d-2fdb-467e-9513-9551fedff8d8")
-	)
-	(wire
-		(pts
-			(xy 177.8 107.95) (xy 177.8 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2866e2d3-b42b-45c6-8936-f354bd812805")
-	)
-	(wire
-		(pts
 			(xy 81.28 81.28) (xy 88.9 81.28)
 		)
 		(stroke
@@ -2075,16 +1863,6 @@
 			(type default)
 		)
 		(uuid "2991a4f7-f162-4042-a236-e8cd457ff25b")
-	)
-	(wire
-		(pts
-			(xy 127 116.84) (xy 130.81 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2992fe77-7fc5-4f13-91ab-35c39b0a6271")
 	)
 	(wire
 		(pts
@@ -2148,16 +1926,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 181.61) (xy 156.21 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fbad2d0-2ba7-40de-b6cc-d2263bee9851")
-	)
-	(wire
-		(pts
 			(xy 88.9 40.64) (xy 88.9 43.18)
 		)
 		(stroke
@@ -2165,16 +1933,6 @@
 			(type default)
 		)
 		(uuid "2fee573c-da10-4f9a-b81a-75eb07906d69")
-	)
-	(wire
-		(pts
-			(xy 160.02 127) (xy 160.02 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3238e2fe-6867-444f-9b24-0ff8fb0eaf31")
 	)
 	(wire
 		(pts
@@ -2228,16 +1986,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 101.6) (xy 182.88 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "356c9500-088f-47c8-9439-612ef4bf62ce")
-	)
-	(wire
-		(pts
 			(xy 140.97 27.94) (xy 135.89 27.94)
 		)
 		(stroke
@@ -2248,16 +1996,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 101.6) (xy 140.97 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39f18e2c-6139-4325-b45a-a9359dd9a0a0")
-	)
-	(wire
-		(pts
 			(xy 66.04 53.34) (xy 69.85 53.34)
 		)
 		(stroke
@@ -2265,16 +2003,6 @@
 			(type default)
 		)
 		(uuid "3e1e0ad5-6fcc-4bb5-b55c-19d2b55bcd59")
-	)
-	(wire
-		(pts
-			(xy 146.05 181.61) (xy 148.59 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f00d874-2c80-413c-89cd-0c651655d83f")
 	)
 	(wire
 		(pts
@@ -2308,16 +2036,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 125.73) (xy 140.97 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41e0ce7a-d672-4c47-8c5c-02d68b31ca33")
-	)
-	(wire
-		(pts
 			(xy 66.04 73.66) (xy 66.04 81.28)
 		)
 		(stroke
@@ -2325,16 +2043,6 @@
 			(type default)
 		)
 		(uuid "41e52406-4ac1-48b9-8dbc-bc5be3bb2549")
-	)
-	(wire
-		(pts
-			(xy 175.26 154.94) (xy 182.88 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42981da4-21ab-4f92-855a-0ea488005170")
 	)
 	(polyline
 		(pts
@@ -2388,16 +2096,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 134.62) (xy 167.64 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fc9c3f8-3a7e-48cd-a20a-ccd0dd510118")
-	)
-	(wire
-		(pts
 			(xy 24.13 154.94) (xy 39.37 154.94)
 		)
 		(stroke
@@ -2415,16 +2113,6 @@
 			(type default)
 		)
 		(uuid "52036eab-4fb4-4bfc-a8a0-70130e1e9615")
-	)
-	(wire
-		(pts
-			(xy 127 127) (xy 135.89 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "524eecc0-4d14-440f-a44b-2774f2aa7d8d")
 	)
 	(wire
 		(pts
@@ -2465,16 +2153,6 @@
 			(type default)
 		)
 		(uuid "53eb45b4-9e2e-44e4-9208-9cc6891d38c6")
-	)
-	(wire
-		(pts
-			(xy 172.72 116.84) (xy 172.72 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "559cf4c0-864c-4c9d-ad24-fb52abb4a941")
 	)
 	(wire
 		(pts
@@ -2568,16 +2246,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 143.51) (xy 140.97 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ffe2b5b-dc16-41ff-947c-9ab8f417c462")
-	)
-	(wire
-		(pts
 			(xy 167.64 60.96) (xy 167.64 62.23)
 		)
 		(stroke
@@ -2595,16 +2263,6 @@
 			(type default)
 		)
 		(uuid "61c2ae97-f937-4583-b54e-a9f9c4c8b138")
-	)
-	(wire
-		(pts
-			(xy 140.97 101.6) (xy 135.89 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62d05da9-4a52-4509-9e0c-db987d00ea31")
 	)
 	(wire
 		(pts
@@ -2635,16 +2293,6 @@
 			(type default)
 		)
 		(uuid "65746b17-ade7-420e-977d-6672662d4fe6")
-	)
-	(wire
-		(pts
-			(xy 133.35 152.4) (xy 133.35 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65837279-58be-475e-b5f9-15444638d0bb")
 	)
 	(wire
 		(pts
@@ -2695,26 +2343,6 @@
 			(type default)
 		)
 		(uuid "6999c094-ca4a-4200-9146-13d52987858a")
-	)
-	(wire
-		(pts
-			(xy 140.97 134.62) (xy 140.97 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ae16bf3-cf87-497c-bcc0-e8c5e8e7a110")
-	)
-	(wire
-		(pts
-			(xy 182.88 101.6) (xy 177.8 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b4ec4c6-9778-451e-81db-78a29e2720a1")
 	)
 	(wire
 		(pts
@@ -2788,16 +2416,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 127) (xy 163.83 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7482afd7-0cab-4da5-8c45-39adbf4994c5")
-	)
-	(wire
-		(pts
 			(xy 24.13 63.5) (xy 24.13 53.34)
 		)
 		(stroke
@@ -2815,16 +2433,6 @@
 			(type default)
 		)
 		(uuid "76ac9811-890a-4616-b909-49694351c753")
-	)
-	(wire
-		(pts
-			(xy 182.88 114.3) (xy 182.88 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "787ab11f-9905-48ba-9eff-24367c3fbbab")
 	)
 	(wire
 		(pts
@@ -2878,16 +2486,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 142.24) (xy 175.26 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84753936-9d1a-4000-a614-601dacae63ca")
-	)
-	(wire
-		(pts
 			(xy 46.99 143.51) (xy 46.99 147.32)
 		)
 		(stroke
@@ -2895,16 +2493,6 @@
 			(type default)
 		)
 		(uuid "86b2569f-20a4-4f16-821f-5f756e7e3e06")
-	)
-	(wire
-		(pts
-			(xy 168.91 116.84) (xy 172.72 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87aa0747-17a5-41c7-85cb-c42c671b754c")
 	)
 	(wire
 		(pts
@@ -2925,16 +2513,6 @@
 			(type default)
 		)
 		(uuid "890aa83b-abfa-4891-a209-146580033040")
-	)
-	(wire
-		(pts
-			(xy 140.97 134.62) (xy 140.97 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89b8876f-8703-4623-8827-08347c0fbf43")
 	)
 	(wire
 		(pts
@@ -2968,16 +2546,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 156.21) (xy 182.88 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e34642d-9b66-490b-ba2b-3549ca4111ec")
-	)
-	(wire
-		(pts
 			(xy 31.75 67.31) (xy 31.75 68.58)
 		)
 		(stroke
@@ -2998,16 +2566,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 107.95) (xy 135.89 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "949d6233-ab27-4a50-8737-82c9bbdda758")
-	)
-	(wire
-		(pts
 			(xy 31.75 134.62) (xy 31.75 135.89)
 		)
 		(stroke
@@ -3025,16 +2583,6 @@
 			(type default)
 		)
 		(uuid "992b52fc-7ea0-42e3-9864-549346d0e4ac")
-	)
-	(wire
-		(pts
-			(xy 125.73 142.24) (xy 133.35 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99555975-e096-494d-930f-3aa459c5022a")
 	)
 	(wire
 		(pts
@@ -3105,16 +2653,6 @@
 			(type default)
 		)
 		(uuid "9bffc2ff-e917-401b-9684-58a962315db3")
-	)
-	(wire
-		(pts
-			(xy 160.02 137.16) (xy 160.02 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c2af28b-64a4-4afc-9ede-86dab3db28db")
 	)
 	(wire
 		(pts
@@ -3208,16 +2746,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 125.73) (xy 140.97 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a34806a4-5088-4bcc-b951-38208b9f867b")
-	)
-	(wire
-		(pts
 			(xy 66.04 137.16) (xy 66.04 127)
 		)
 		(stroke
@@ -3288,16 +2816,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 101.6) (xy 177.8 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9a70f3f-617d-45ba-99f8-3a7705f52ec1")
-	)
-	(wire
-		(pts
 			(xy 46.99 125.73) (xy 46.99 116.84)
 		)
 		(stroke
@@ -3305,16 +2823,6 @@
 			(type default)
 		)
 		(uuid "ab6bd016-5058-4a5e-80e9-d2d7f083b011")
-	)
-	(wire
-		(pts
-			(xy 182.88 125.73) (xy 182.88 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab8a0142-04a6-44d6-b706-2bbfb4962f7a")
 	)
 	(wire
 		(pts
@@ -3348,26 +2856,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 156.21) (xy 140.97 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0a3296c-29d6-47ee-ac1b-ea9ecb46338b")
-	)
-	(wire
-		(pts
-			(xy 118.11 137.16) (xy 118.11 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b325598e-aca3-4e20-86be-3b0fa1019e91")
-	)
-	(wire
-		(pts
 			(xy 73.66 142.24) (xy 81.28 142.24)
 		)
 		(stroke
@@ -3388,16 +2876,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 109.22) (xy 135.89 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b48fa0eb-ca29-4d39-85e3-cf1ac24d5e97")
-	)
-	(wire
-		(pts
 			(xy 168.91 43.18) (xy 172.72 43.18)
 		)
 		(stroke
@@ -3408,16 +2886,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 147.32) (xy 118.11 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba0e19bb-829b-47d7-b064-62ad4cf5c71a")
-	)
-	(wire
-		(pts
 			(xy 135.89 27.94) (xy 135.89 29.21)
 		)
 		(stroke
@@ -3425,16 +2893,6 @@
 			(type default)
 		)
 		(uuid "ba1c743e-d2c8-4651-8214-6d10a66e09f8")
-	)
-	(wire
-		(pts
-			(xy 118.11 154.94) (xy 133.35 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba3ff8e7-86bd-4baa-acae-dd1127b38047")
 	)
 	(wire
 		(pts
@@ -3498,16 +2956,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 100.33) (xy 135.89 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c007f2a5-183e-4926-858a-fbe2c4128faf")
-	)
-	(wire
-		(pts
 			(xy 46.99 156.21) (xy 46.99 154.94)
 		)
 		(stroke
@@ -3518,16 +2966,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 154.94) (xy 175.26 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1aebb99-015e-4196-9e2a-64313a9f58ed")
-	)
-	(wire
-		(pts
 			(xy 46.99 82.55) (xy 46.99 81.28)
 		)
 		(stroke
@@ -3535,26 +2973,6 @@
 			(type default)
 		)
 		(uuid "c1cdf496-7361-4635-8f6f-f082babf524b")
-	)
-	(wire
-		(pts
-			(xy 118.11 127) (xy 121.92 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2c8c102-7451-49e2-bb7c-dbd825d96113")
-	)
-	(wire
-		(pts
-			(xy 175.26 152.4) (xy 175.26 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c321072a-a5b7-4198-9296-8611267b5fca")
 	)
 	(wire
 		(pts
@@ -3628,16 +3046,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 127) (xy 177.8 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb1092cf-ab40-4f1e-b1a9-2309351500c2")
-	)
-	(wire
-		(pts
 			(xy 33.02 116.84) (xy 36.83 116.84)
 		)
 		(stroke
@@ -3648,16 +3056,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 100.33) (xy 177.8 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb96666f-571c-479b-8b4a-d71d50e9287a")
-	)
-	(wire
-		(pts
 			(xy 88.9 52.07) (xy 88.9 43.18)
 		)
 		(stroke
@@ -3665,16 +3063,6 @@
 			(type default)
 		)
 		(uuid "ccb0015f-a3f3-4bb0-983c-86b2093ecb41")
-	)
-	(wire
-		(pts
-			(xy 182.88 134.62) (xy 182.88 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd54e981-984c-4f6f-81c3-b2c790b6993b")
 	)
 	(wire
 		(pts
@@ -3695,16 +3083,6 @@
 			(type default)
 		)
 		(uuid "ce68d38d-c779-4206-926e-10fa3aaa26da")
-	)
-	(wire
-		(pts
-			(xy 125.73 134.62) (xy 125.73 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf901249-b103-414d-ab44-e480569f38c1")
 	)
 	(wire
 		(pts
@@ -3748,16 +3126,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 140.97) (xy 167.64 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d31262ea-0106-45de-a68a-873776f476a4")
-	)
-	(wire
-		(pts
 			(xy 88.9 125.73) (xy 88.9 116.84)
 		)
 		(stroke
@@ -3798,16 +3166,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 147.32) (xy 160.02 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dde592b0-6de5-4f76-bde6-57fc9fe51276")
-	)
-	(wire
-		(pts
 			(xy 31.75 60.96) (xy 31.75 62.23)
 		)
 		(stroke
@@ -3825,16 +3183,6 @@
 			(type default)
 		)
 		(uuid "e0219ece-3eea-4267-ac8e-1c5f508fde18")
-	)
-	(wire
-		(pts
-			(xy 130.81 116.84) (xy 130.81 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e09bf274-e14c-4fa5-b347-78d416962274")
 	)
 	(wire
 		(pts
@@ -3988,16 +3336,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 134.62) (xy 182.88 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6ebfb5f-68a2-4844-9ab4-7de95ea8f120")
-	)
-	(wire
-		(pts
 			(xy 81.28 152.4) (xy 81.28 154.94)
 		)
 		(stroke
@@ -4005,16 +3343,6 @@
 			(type default)
 		)
 		(uuid "fa0c72ea-954f-433d-9362-4a9bdb4f8f12")
-	)
-	(wire
-		(pts
-			(xy 160.02 109.22) (xy 177.8 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fab58cf2-8cbf-4a47-9f42-038d9410e15c")
 	)
 	(polyline
 		(pts
@@ -4025,16 +3353,6 @@
 			(type default)
 		)
 		(uuid "fb1b5443-d3fc-4408-8f6d-64f189156536")
-	)
-	(wire
-		(pts
-			(xy 182.88 143.51) (xy 182.88 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb91e311-daed-4451-8529-65182b7c6c94")
 	)
 	(wire
 		(pts
@@ -4065,16 +3383,6 @@
 			(type default)
 		)
 		(uuid "fefad0e2-2c13-46a7-97d1-3157ff6e5718")
-	)
-	(wire
-		(pts
-			(xy 118.11 127) (xy 118.11 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fff2a6d6-9000-4267-a4c2-e270af93cfa9")
 	)
 	(text "I2C Bus Protection - Coil Driver"
 		(exclude_from_sim no)
@@ -4130,28 +3438,6 @@
 			(justify left bottom)
 		)
 		(uuid "60138d97-b585-4411-8eed-0cff2f39aca0")
-	)
-	(text "Coil Power Jumpers"
-		(exclude_from_sim no)
-		(at 143.51 175.514 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ce77679-eddc-4a47-8631-2a58fb5f3f15")
-	)
-	(text "I2C Bus Protection - Coil Power Monitor"
-		(exclude_from_sim no)
-		(at 120.396 93.472 0)
-		(effects
-			(font
-				(size 2.159 2.159)
-			)
-			(justify left bottom)
-		)
-		(uuid "b776df87-bba0-43d8-9656-ec04dd3a2318")
 	)
 	(text "I2C Bus Protection - Light Sensor"
 		(exclude_from_sim no)
@@ -4267,50 +3553,6 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 146.05 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "27ae52e6-090a-45a1-a233-35b403b74f5e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.2182 181.5306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL"
-		(shape input)
-		(at 127 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "29e410a3-b2a4-4922-9817-7a8f34870b8c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.1682 116.7606 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL"
-		(shape input)
 		(at 67.31 181.61 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4344,50 +3586,6 @@
 		(uuid "2e2d4b3e-cfa1-43e4-aff5-082e60ba1847")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 127.0218 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SDA_CPWR"
-		(shape bidirectional)
-		(at 156.21 189.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2e4c7d37-4a4b-47e5-90fa-a30bbfa2dbcf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.1036 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL_CPWR"
-		(shape output)
-		(at 156.21 181.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "388160f5-9115-4218-9a20-3843ec6a3dc6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.9318 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,50 +3657,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SDA"
-		(shape bidirectional)
-		(at 168.91 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4ceaf3db-125c-4cc6-bfe8-ae34e827cd94")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0177 116.7606 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL_CPWR"
-		(shape output)
-		(at 143.51 125.73 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4dc8e781-3648-4db4-b448-a143dfb463f8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.2318 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -4635,28 +3789,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SDA_CPWR"
-		(shape bidirectional)
-		(at 185.42 125.73 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a6a4b3a1-9cda-4007-bd60-f40258898bc5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.3136 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -4828,28 +3960,6 @@
 		(uuid "f6e51328-5ac9-4de5-964b-8371c761c034")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 27.1882 43.1006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SDA"
-		(shape bidirectional)
-		(at 146.05 189.23 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f77b3eae-54b2-4a3a-a965-1aa144d154a4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.1577 189.1506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5539,187 +4649,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:MBT2222ADW1T1")
-		(at 135.89 132.08 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "09e8f3b3-02c3-468f-b71c-af96d47b6e46")
-		(property "Reference" "Q6"
-			(at 135.89 137.668 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MBT2222ADW1T1"
-			(at 135.89 140.3604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 138.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/MBT2222ADW1T1-D.PDF"
-			(at 135.89 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual NPN BJT - 2NPN"
-			(at 135.89 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Flight" "MBT2222ADW1T1G"
-			(at 135.89 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "ON Semiconductor"
-			(at 135.89 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBT2222ADW1T1G"
-			(at 138.43 138.0744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Proto" "MBT2222ADW1T1G"
-			(at 135.89 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ae6f856-c729-4e56-8ccb-43e5dd7152e0")
-		)
-		(pin "2"
-			(uuid "e8160808-bc09-4aab-9199-a3a9ef3f31cd")
-		)
-		(pin "6"
-			(uuid "7c64eb43-aa9d-437c-b57a-def17e668950")
-		)
-		(pin "3"
-			(uuid "b8b7f02e-ce93-4e08-8d28-28a17b3a311b")
-		)
-		(pin "4"
-			(uuid "42efdd20-c5b5-419d-abeb-42ae8ea35525")
-		)
-		(pin "5"
-			(uuid "4d7f51b4-f72e-4092-b418-685577376cde")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 140.97 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0c502f87-4ab3-4200-90a2-9006e5393069")
-		(property "Reference" "#PWR025"
-			(at 140.97 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 140.97 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 140.97 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "118a9b4d-8675-44c0-8b0e-55587c317e84")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 83.82 31.75 0)
 		(unit 1)
@@ -5928,75 +4857,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 177.8 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1a11c7ec-7473-4575-84a8-dfdfe257c2b4")
-		(property "Reference" "R55"
-			(at 176.0982 104.2416 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 176.0982 106.553 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 177.8 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 177.8 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7893959b-d9e8-4f2c-a8b7-72adcc7ac5db")
-		)
-		(pin "2"
-			(uuid "449d2cc3-aede-4def-9d0a-880b21ae23c6")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
 		(at 125.73 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6059,75 +4919,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "R64")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 182.88 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2a0aab14-b593-4db8-8128-713f8e4e9b79")
-		(property "Reference" "R56"
-			(at 184.658 110.871 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10K"
-			(at 184.658 112.903 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 182.88 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 182.88 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 182.88 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d4b20506-feba-48e8-ab3d-dc48075d19a4")
-		)
-		(pin "2"
-			(uuid "7a6a1f8b-255d-460d-b4c6-5f2f5bfe21ff")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -6233,71 +5024,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "Q15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 135.89 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2d01b782-6325-49ab-99bb-b26ccb5812fb")
-		(property "Reference" "#SUPPLY012"
-			(at 135.89 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3.3V"
-			(at 135.89 96.774 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 135.89 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 135.89 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 135.89 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cea41b1c-3e09-4444-bc33-4a31fa482338")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "#SUPPLY012")
 					(unit 1)
 				)
 			)
@@ -6479,136 +5205,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "#SUPPLY06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 125.73 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "307c553f-54e9-4afb-97bf-b76897621bcf")
-		(property "Reference" "#SUPPLY016"
-			(at 125.73 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3.3V"
-			(at 125.73 131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 125.73 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "86437e04-a7d9-4b49-8138-4fad2facbff5")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "#SUPPLY016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 167.64 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "316fb316-2458-4077-bc0e-e1802b927ce2")
-		(property "Reference" "#SUPPLY017"
-			(at 167.64 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3.3V"
-			(at 167.64 131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.64 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 167.64 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9224197e-56fb-47f2-a382-73cd1f05e5bc")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "#SUPPLY017")
 					(unit 1)
 				)
 			)
@@ -7082,147 +5678,6 @@
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "Q15")
 					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 151.13 189.23 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3bcc5208-83af-4c80-aabb-ad2b2da5543f")
-		(property "Reference" "R86"
-			(at 151.13 186.944 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DNI (0R)"
-			(at 151.13 191.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 151.13 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 151.13 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 151.13 191.262 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1da5d8cc-7f8e-44ff-afce-555684855168")
-		)
-		(pin "2"
-			(uuid "635c3e5b-2c32-40b7-a6f7-24626832879c")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R86")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 182.88 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3e3b3e7b-c8c1-4144-8851-4f5624ccf015")
-		(property "Reference" "#PWR028"
-			(at 182.88 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 182.88 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 182.88 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "97282451-c903-4908-843f-cf54ae5b6fe2")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "#PWR028")
-					(unit 1)
 				)
 			)
 		)
@@ -8175,198 +6630,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 151.13 181.61 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "501bc370-6ae7-43e4-8ce6-5b27bccd8866")
-		(property "Reference" "R85"
-			(at 151.13 179.451 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DNI (0R)"
-			(at 151.13 184.023 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 151.13 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 151.13 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNI" "DNI"
-			(at 151.13 183.642 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6658d963-767d-4d42-ba7e-8b9142c0dcdf")
-		)
-		(pin "2"
-			(uuid "2cc7c723-781d-464f-8ce5-0b2ed2689f83")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:MBT2222ADW1T1")
-		(at 135.89 114.3 90)
-		(mirror x)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "523619b4-e605-42bf-8a32-7346576cae9b")
-		(property "Reference" "Q6"
-			(at 135.89 120.269 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MBT2222ADW1T1"
-			(at 126.873 111.379 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 133.35 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/MBT2222ADW1T1-D.PDF"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual NPN BJT - 2NPN"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Flight" "MBT2222ADW1T1G"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "ON Semiconductor"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBT2222ADW1T1G"
-			(at 133.35 120.269 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Proto" "MBT2222ADW1T1G"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96d1d309-3da4-464e-b791-287827e30146")
-		)
-		(pin "2"
-			(uuid "62b654f2-7f82-4d6d-8a5f-a2a52c4393d3")
-		)
-		(pin "6"
-			(uuid "9cb111de-b9d2-4e63-a44d-7cf0668587ec")
-		)
-		(pin "3"
-			(uuid "cd46f0e3-a3ab-4c9d-854a-c2fde1ff3777")
-		)
-		(pin "4"
-			(uuid "68d0387b-0aa7-44f6-9fc5-2825ec3a25df")
-		)
-		(pin "5"
-			(uuid "7345d973-e784-4430-87f3-3d787a5b3251")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q6")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
 		(at 88.9 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8505,75 +6768,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 140.97 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5cf5aee6-de00-47bc-a35c-4cbd03f0e2a2")
-		(property "Reference" "R51"
-			(at 142.24 110.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10K"
-			(at 142.24 112.776 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 140.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 140.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b788a827-fc4d-4d4d-95fa-d99faf8e9d5f")
-		)
-		(pin "2"
-			(uuid "f3ed9758-5d01-4048-a348-217f0cfd45a5")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
 		(at 72.39 189.23 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8643,73 +6837,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "R45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 124.46 127 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6297d714-0b4a-4123-9f17-a2192a914f7a")
-		(property "Reference" "R48"
-			(at 124.46 122.682 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "680R"
-			(at 124.46 124.714 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 124.46 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 124.46 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 124.46 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17e8c395-8913-4335-a655-ccef30d28bcb")
-		)
-		(pin "2"
-			(uuid "958a936f-5c85-4ebd-9934-d3bdac27124c")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -9470,217 +7597,6 @@
 		)
 	)
 	(symbol
-		(lib_id "mainboard:NX3008NBKS")
-		(at 161.29 142.24 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "838bac2c-a184-4bc5-b8fb-f205691f3bda")
-		(property "Reference" "Q7"
-			(at 157.226 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NX3008NBKS"
-			(at 173.482 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 175.26 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/NX3008NBKS.pdf"
-			(at 175.26 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual N-Channel MOSFET - 2NMOS"
-			(at 175.26 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Nexperia USA Inc."
-			(at 175.26 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "NX3008NBKS"
-			(at 175.26 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "091264ed-66f6-4e41-a431-d850e4d0ef6f")
-		)
-		(pin "2"
-			(uuid "972f986e-5bb6-4f56-b290-aff77c46e947")
-		)
-		(pin "6"
-			(uuid "5d70b0c4-59c2-4ce8-84c7-449e6526110f")
-		)
-		(pin "3"
-			(uuid "e2c9fb45-8e00-4937-a540-4e21683ab25a")
-		)
-		(pin "4"
-			(uuid "0414c9f4-7329-49ea-8387-20f9c23af6f4")
-		)
-		(pin "5"
-			(uuid "597540f1-addf-493b-8e48-ed8386f85525")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "mainboard:NX3008NBKS")
-		(at 134.62 147.32 0)
-		(mirror y)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "85fe05ff-e53a-4c55-aefd-9d03a339c236")
-		(property "Reference" "Q5"
-			(at 130.81 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NX3008NBKS"
-			(at 138.43 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 148.59 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/NX3008NBKS.pdf"
-			(at 148.59 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual N-Channel MOSFET - 2NMOS"
-			(at 148.59 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Nexperia USA Inc."
-			(at 148.59 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "NX3008NBKS"
-			(at 148.59 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cf7a6125-f967-458c-87e9-b2e58d8017e8")
-		)
-		(pin "2"
-			(uuid "bb15bfc4-fab1-4a64-adaa-d9a1059da80f")
-		)
-		(pin "6"
-			(uuid "d1b3c9f2-a312-4d08-bd8a-4f506c4df204")
-		)
-		(pin "3"
-			(uuid "fd88756b-7c47-46a9-9d5b-acc9dcea319e")
-		)
-		(pin "4"
-			(uuid "20a8fe62-0f26-47c2-a605-39493dd0eec6")
-		)
-		(pin "5"
-			(uuid "ced9d081-ce3f-49ec-8b12-0b339862956b")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q5")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 88.9 156.21 0)
 		(unit 1)
@@ -10211,122 +8127,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:MBT2222ADW1T1")
-		(at 177.8 114.3 90)
-		(mirror x)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9216eb7e-3f94-4881-9001-babe6f9ec03b")
-		(property "Reference" "Q8"
-			(at 177.8 120.269 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MBT2222ADW1T1"
-			(at 168.783 111.379 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 175.26 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/MBT2222ADW1T1-D.PDF"
-			(at 177.8 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual NPN BJT - 2NPN"
-			(at 177.8 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Flight" "MBT2222ADW1T1G"
-			(at 177.8 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "ON Semiconductor"
-			(at 177.8 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBT2222ADW1T1G"
-			(at 175.26 120.269 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Proto" "MBT2222ADW1T1G"
-			(at 177.8 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5365495e-77fe-496a-bb32-dbb9f5dfb508")
-		)
-		(pin "2"
-			(uuid "1b015cd4-5d26-447f-9a8a-eec8387a69e1")
-		)
-		(pin "6"
-			(uuid "d09e155d-7074-449a-b204-fadbdc03b735")
-		)
-		(pin "3"
-			(uuid "aad112a5-e9d5-434a-8374-df52412be2c8")
-		)
-		(pin "4"
-			(uuid "ce53aaac-b8f4-4f1d-bc23-716877a060a3")
-		)
-		(pin "5"
-			(uuid "1e56daa5-c37c-4653-bf82-a4c4817caffa")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q8")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "mainboard:NX3008NBKS")
 		(at 82.55 73.66 0)
 		(mirror y)
@@ -10428,187 +8228,6 @@
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "Q3")
 					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 177.8 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "95c6fcd4-758b-4454-9573-f5edff8f8eb5")
-		(property "Reference" "#SUPPLY013"
-			(at 177.8 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3.3V"
-			(at 177.8 96.774 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 177.8 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 177.8 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 177.8 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0293cf38-6c0d-44a3-a5a4-4dde3b1659c5")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "#SUPPLY013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:MBT2222ADW1T1")
-		(at 177.8 132.08 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "983f8e78-9357-4a90-a472-50f7e6ca57d2")
-		(property "Reference" "Q8"
-			(at 177.8 137.668 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MBT2222ADW1T1"
-			(at 177.8 140.3604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 180.34 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/MBT2222ADW1T1-D.PDF"
-			(at 177.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual NPN BJT - 2NPN"
-			(at 177.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Flight" "MBT2222ADW1T1G"
-			(at 177.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "ON Semiconductor"
-			(at 177.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBT2222ADW1T1G"
-			(at 180.34 138.0744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Proto" "MBT2222ADW1T1G"
-			(at 177.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "30d2ccfc-c283-43c6-8276-317812de5d33")
-		)
-		(pin "2"
-			(uuid "ec23e62d-93a6-456a-8546-772abe682d4f")
-		)
-		(pin "6"
-			(uuid "c2aac648-b1a6-491a-b8b8-35b78ecb5dc8")
-		)
-		(pin "3"
-			(uuid "cc15d5dc-c1f2-4b02-b1b7-9d710b54b4e8")
-		)
-		(pin "4"
-			(uuid "2d953027-1711-4aaf-a013-823fb385c44d")
-		)
-		(pin "5"
-			(uuid "125e1834-0b70-463b-8237-386142b3a99b")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q8")
-					(unit 1)
 				)
 			)
 		)
@@ -10778,144 +8397,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "Q11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 182.88 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9c2438d2-c87f-4d03-ab11-5aacc6adb4ab")
-		(property "Reference" "C27"
-			(at 185.801 149.987 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10nF"
-			(at 185.801 152.273 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 183.8452 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 182.88 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10nF +-10% 50V X7R"
-			(at 182.88 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "579ee040-d605-4232-be26-c542d636ef5c")
-		)
-		(pin "2"
-			(uuid "64fb9d54-d9ab-4dd1-93ab-91ed715939ef")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "C27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 167.64 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9c56581e-373d-4f79-8176-a87e5cc803ce")
-		(property "Reference" "R54"
-			(at 169.291 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100K"
-			(at 169.291 139.192 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 167.64 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 167.64 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 167.64 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dab279cb-3791-468f-836b-3bb1ef46d33f")
-		)
-		(pin "2"
-			(uuid "bb22df82-7ec9-42cf-b8bb-661dfcc0e877")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -11264,75 +8745,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 182.88 140.97 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a4a7e37b-fcba-4d62-80ae-71b0899ef5da")
-		(property "Reference" "R57"
-			(at 184.6072 139.8016 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200K"
-			(at 184.6072 142.113 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 182.88 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 182.88 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 182.88 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17b9a9df-a4c7-44ee-8d37-8f0b32d25830")
-		)
-		(pin "2"
-			(uuid "bd3f5187-5fca-4f63-b5c0-f985ebd97fc8")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
 		(at 30.48 127 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11393,144 +8805,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "R73")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 125.73 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ac243e8b-cfb8-4c8f-ac29-2707598338a0")
-		(property "Reference" "R49"
-			(at 127.254 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100K"
-			(at 127.127 139.446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 125.73 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 125.73 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 125.73 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "97b1e3b8-1998-4230-a791-799551abd36d")
-		)
-		(pin "2"
-			(uuid "e006b47e-0b5c-478b-8d31-3fb3c103fe6d")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 140.97 140.97 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ac57ea45-5f08-428b-aaff-506a64c1e5e9")
-		(property "Reference" "R52"
-			(at 142.6972 139.8016 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200K"
-			(at 142.6972 142.113 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 140.97 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 140.97 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74bb898b-b384-4222-943f-9cd6b7024120")
-		)
-		(pin "2"
-			(uuid "be03d6f1-bebd-4c7c-bc9d-84ee954b6ccf")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -12175,73 +9449,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 166.37 127 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c3345585-bf67-4135-b9fb-d87eaf552ff4")
-		(property "Reference" "R53"
-			(at 166.37 122.682 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "680R"
-			(at 166.37 124.714 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 166.37 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 166.37 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4f45ee24-a302-4fca-a2c8-99c688cedab1")
-		)
-		(pin "2"
-			(uuid "65cd2021-da4d-4d48-92b6-2fd467e4e288")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -13284,180 +10491,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 140.97 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e7cc40cd-d611-49b0-aadf-dbfe54b5f7aa")
-		(property "Reference" "C26"
-			(at 143.891 149.9616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10nF"
-			(at 143.891 152.273 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 141.9352 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10nF +-10% 50V X7R"
-			(at 140.97 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4b21917d-3620-405c-b74e-d3479c6ed9f5")
-		)
-		(pin "2"
-			(uuid "4ee8a159-294e-4896-a26d-681a0badb8a9")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "C26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "mainboard:NX3008NBKS")
-		(at 119.38 142.24 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ea10de76-ce55-4dd1-bf94-8bd71f040e01")
-		(property "Reference" "Q5"
-			(at 115.316 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NX3008NBKS"
-			(at 131.318 153.543 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 133.35 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/NX3008NBKS.pdf"
-			(at 133.35 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual N-Channel MOSFET - 2NMOS"
-			(at 133.35 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Nexperia USA Inc."
-			(at 133.35 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "NX3008NBKS"
-			(at 133.35 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fc728d82-5b7c-48a0-bea4-25984a78a517")
-		)
-		(pin "2"
-			(uuid "1de6d341-a415-4114-9d97-6f627826c462")
-		)
-		(pin "6"
-			(uuid "bcd23f01-3f82-42bc-8018-21d2bd3d29db")
-		)
-		(pin "3"
-			(uuid "7c75977a-6f27-495d-898d-dfd4124863f0")
-		)
-		(pin "4"
-			(uuid "a2a3c05b-9c88-450f-a754-dc5916410106")
-		)
-		(pin "5"
-			(uuid "a3ea0c4f-c620-4e78-82ab-7a9d5579af43")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 113.03 181.61 270)
 		(unit 1)
@@ -13534,112 +10567,6 @@
 		)
 	)
 	(symbol
-		(lib_id "mainboard:NX3008NBKS")
-		(at 176.53 147.32 0)
-		(mirror y)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f70bfa9b-ee84-4324-a577-c23dc7b7c0ea")
-		(property "Reference" "Q7"
-			(at 172.847 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NX3008NBKS"
-			(at 180.34 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 190.5 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/NX3008NBKS.pdf"
-			(at 190.5 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual N-Channel MOSFET - 2NMOS"
-			(at 190.5 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Nexperia USA Inc."
-			(at 190.5 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "NX3008NBKS"
-			(at 190.5 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "90ef939f-d787-4c23-8e6d-32cf41ccfc20")
-		)
-		(pin "2"
-			(uuid "c34a4723-4131-4fb0-bec9-127ee8db602a")
-		)
-		(pin "6"
-			(uuid "ebcf9bfb-6eb3-4835-97a1-93958c9f5341")
-		)
-		(pin "3"
-			(uuid "8c66346f-d4a1-442a-a921-242ad62259be")
-		)
-		(pin "4"
-			(uuid "33d3288b-cab8-484d-93d0-24d850294258")
-		)
-		(pin "5"
-			(uuid "890aa194-2135-4879-ba1a-45ce8fd21894")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "Q7")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 88.9 77.47 0)
 		(unit 1)
@@ -13703,75 +10630,6 @@
 			(project "Avionics-SolarPanels"
 				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
 					(reference "C25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 135.89 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fb8afdb2-e519-4fa6-9113-20c908e102c5")
-		(property "Reference" "R50"
-			(at 134.62 104.394 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 134.62 106.426 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 135.89 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 135.89 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a6fee3f-f0cb-4ee5-b573-3981999891fa")
-		)
-		(pin "2"
-			(uuid "26583d95-6bc2-41bf-8548-71245ef3a2a5")
-		)
-		(instances
-			(project "Avionics-SolarPanels"
-				(path "/92e58b76-9357-4452-b231-18fffdf58e73/e7b397e6-cf2a-4087-9aa2-8fea97a86f25"
-					(reference "R50")
 					(unit 1)
 				)
 			)
